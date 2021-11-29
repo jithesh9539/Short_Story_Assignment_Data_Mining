@@ -2,6 +2,6 @@
 
 Medium Article: https://medium.com/@jithesh.kurungotebalakrishnan/decision-support-based-on-data-mining-for-tourism-sector-post-covid-19-a3b772b575f9
 
-Presentation Link: https://www.slideshare.net/JitheshKurungoteBala/decision-support-based-on-data-mining-for-tourism
+Presentation Link: https://www.slideshare.net/JitheshKurungoteBala/decision-support-based-on-data-mining-for-tourism-250750311
 
 Youtube Link: https://youtu.be/_JDeM5hGlrE
